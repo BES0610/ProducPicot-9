@@ -7,7 +7,8 @@
         "image": "https://d11r0n2xhffvf0.cloudfront.net/pico/slider/c057aae9319b931152a3100b626404c1.jpeg",
         "rating": {
             "rate": 4.6,
-            "count": 400,
+            "count": 400
+        },
             "Name": "Apple",
             "Type1": "Grany Smit",
             "Type2": "Stark Spur Golden",
@@ -15,5 +16,4 @@
             "Type4": "Fuji",
             "Type5": "Stark Spur Golden",
             "Type6": "local"
-        }
     }
